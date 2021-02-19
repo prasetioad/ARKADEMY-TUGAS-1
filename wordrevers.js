@@ -11,3 +11,5 @@ function balikKata (a) {
 }
 
 balikKata('Saya belajar JavaScript');
+
+//TUGAS ARKADEMY 1
